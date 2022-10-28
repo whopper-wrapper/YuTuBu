@@ -45,4 +45,8 @@
 - ダウンロードしたファイルはRECフォルダ内に保存されます  
 
 # 
+### ◇ 一覧 ◇
+https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
+
+# 
 http://hakuturu-wrapper.atspace.tv
