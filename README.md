@@ -46,7 +46,7 @@
 
 # 
 ### ◇ 一覧 ◇
-https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
+https://github.com/whopper-wrapper/YuTuBu/blob/main/SupportedSites.md
 
 # 
 http://hakuturu-wrapper.atspace.tv
