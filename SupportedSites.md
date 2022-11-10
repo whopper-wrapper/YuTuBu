@@ -1,6 +1,6 @@
 # SupportedSites
 
-- 17 Live
+- 17.live
 - Abema
 - Youtube
 - 
