@@ -9,4 +9,5 @@
 - 9gag.com
 - 9now.com.au
 - abema.tv
+- animationdigitalnetwork
 - youtube.com
