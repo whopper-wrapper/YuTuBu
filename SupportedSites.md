@@ -9,5 +9,6 @@
 - 24tv.ua
 - 24video
 - 4tube.com
+- 9gag.com
 - abema.tv
 - youtube.com
