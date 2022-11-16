@@ -22,5 +22,6 @@
 - nicovideo.jp
 - openrec.tv
 - showroom-live.com
+- tver.jp
 - xiaodutv.com
 - youtube.com
