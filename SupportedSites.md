@@ -12,5 +12,6 @@
 - animationdigitalnetwork
 - adobetv
 - afreecatv.com
+- bigo.tv
 - xiaodutv.com
 - youtube.com
