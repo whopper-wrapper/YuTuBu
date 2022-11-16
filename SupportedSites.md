@@ -15,5 +15,6 @@
 - bigo.tv
 - bilibili.com
 - dailymotion.com
+- fc2.com
 - xiaodutv.com
 - youtube.com
