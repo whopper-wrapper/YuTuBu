@@ -16,6 +16,7 @@
 - bilibili.com
 - dailymotion.com
 - fc2.com
+- gyao
 - instagram.com
 - live.line.me
 - mixch.tv
