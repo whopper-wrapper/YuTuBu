@@ -11,4 +11,5 @@
 - abema.tv
 - animationdigitalnetwork
 - adobetv
+- afreecatv.com
 - youtube.com
