@@ -14,5 +14,6 @@
 - afreecatv.com
 - bigo.tv
 - bilibili.com
+- dailymotion.com
 - xiaodutv.com
 - youtube.com
