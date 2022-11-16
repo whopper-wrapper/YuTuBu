@@ -8,5 +8,6 @@
 - 247sports.com
 - 24tv.ua
 - 24video
+- 4tube.com
 - abema.tv
 - youtube.com
