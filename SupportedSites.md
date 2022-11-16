@@ -16,5 +16,6 @@
 - bilibili.com
 - dailymotion.com
 - fc2.com
+- instagram.com
 - xiaodutv.com
 - youtube.com
