@@ -20,5 +20,6 @@
 - live.line.me
 - mixch.tv
 - nicovideo.jp
+- openrec.tv
 - xiaodutv.com
 - youtube.com
