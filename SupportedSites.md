@@ -13,5 +13,6 @@
 - adobetv
 - afreecatv.com
 - bigo.tv
+- bilibili.com
 - xiaodutv.com
 - youtube.com
