@@ -23,5 +23,6 @@
 - openrec.tv
 - showroom-live.com
 - tver.jp
+- twitch.tv
 - xiaodutv.com
 - youtube.com
