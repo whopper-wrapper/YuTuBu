@@ -10,5 +10,6 @@
 - 24video
 - 4tube.com
 - 9gag.com
+- 9now.com.au
 - abema.tv
 - youtube.com
