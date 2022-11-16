@@ -17,6 +17,7 @@
 - dailymotion.com
 - fc2.com
 - instagram.com
+- live.line.me
 - mixch.tv
 - xiaodutv.com
 - youtube.com
