@@ -6,7 +6,6 @@
 - 1tv.ru
 - 20min.ch
 - 247sports.com
-- 4tube.com
 - 9gag.com
 - 9now.com.au
 - abema.tv
