@@ -19,5 +19,6 @@
 - instagram.com
 - live.line.me
 - mixch.tv
+- nicovideo.jp
 - xiaodutv.com
 - youtube.com
