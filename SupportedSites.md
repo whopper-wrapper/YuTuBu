@@ -24,5 +24,6 @@
 - showroom-live.com
 - tver.jp
 - twitch.tv
+- twitter.com
 - xiaodutv.com
 - youtube.com
