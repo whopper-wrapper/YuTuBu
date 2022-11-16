@@ -7,5 +7,6 @@
 - 20min.ch
 - 247sports.com
 - 24tv.ua
+- 24video
 - abema.tv
 - youtube.com
