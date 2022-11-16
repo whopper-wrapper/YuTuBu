@@ -2,6 +2,5 @@
 
 - 0000.studio
 - 17.live
-- Abema
-- Youtube
-- 
+- abema.tv
+- youtube.com
