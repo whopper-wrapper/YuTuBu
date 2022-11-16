@@ -21,5 +21,6 @@
 - mixch.tv
 - nicovideo.jp
 - openrec.tv
+- showroom-live.com
 - xiaodutv.com
 - youtube.com
