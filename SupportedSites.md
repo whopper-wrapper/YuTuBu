@@ -12,4 +12,5 @@
 - animationdigitalnetwork
 - adobetv
 - afreecatv.com
+- xiaodutv.com
 - youtube.com
