@@ -10,4 +10,5 @@
 - 9now.com.au
 - abema.tv
 - animationdigitalnetwork
+- adobetv
 - youtube.com
